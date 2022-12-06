@@ -1,0 +1,19 @@
+zebre
+mange_viande,poils,sabots
+mange_viande   carnivore
+dents_pointues,griffes,yeux_avant   carnivore
+mange_herbe   non carnivore
+mammifere,sabots   ongule
+mammifere,rumine   ongule
+mange_viande,poils   raies
+mammifere,carnivore,brun,taches   guepard
+mammifere,carnivore,brun,raies   tigre
+ongule,long_cou,longues_pattes,taches   girafe
+ongule,raies   zebre
+oiseau,long_cou,longues_pattes,noir_et_blanc,non vol   autruche
+oiseau,nage,noir_et_blanc,non vole   pingouin
+oiseau,vole   albatros
+poils   mammifere
+lait   mammifere
+plumes   oiseau
+vole,pond_oeufs   oiseau
